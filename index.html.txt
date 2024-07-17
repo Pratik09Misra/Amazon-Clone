@@ -1,0 +1,8 @@
+->diff btwn CSMACD & CSMACA, OSI & TCP/IP, IPv4 vs IPv6, TCP & UDP, pure aloha & slotted aloha, WLAN, MAN< WAN.
+-> what is aloha, difinitiion of pure & slotted aloha
+-> stop & wait ARQ with diagram
+-> Topologies: Mesh, RIng, star, bus
+-> Controlled access protocol (definitions)
+-> HDLC frame format
+-> IPv4 frame format
+-> RSA algorithm
